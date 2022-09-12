@@ -1,5 +1,7 @@
 # Un po' di storia
 
+### Passione, non un lavoro!
+
 **Developer per passione**, comincio la mia avventura nel mondo della programmazione all'età di 15 anni.
 
 ### Programmazione ad oggetti
