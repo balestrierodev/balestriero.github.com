@@ -8,7 +8,7 @@ Muovo i miei primi passi in **Visual Studio**, dilettandomi nello sviluppo di ap
 
 Successivamente, scopro **PHP**, **MySQL**, **Javascript**, **HTML** e **CSS**, cominciando quindi a sviluppare pagine web dinamiche ed applicativi online.
 
-Date le conoscenze, percorro una brevissima strada come **White Hat**, scoprendo **0 Day** e **falle di sicurezza** e segnalandole ai rispettivi proprietari aiutandoli nel fixare eventuali bug, tra questi il framework **PhpNuke**, uno dei più utilizzato a quei tempi.
+Date le conoscenze, percorro una brevissima strada come **White Hat**, scoprendo **0Day** e **falle di sicurezza** e segnalandole ai rispettivi proprietari aiutandoli nel fixare eventuali bug, tra questi il framework **PhpNuke**, uno dei più utilizzato a quei tempi.
 
 ### Programmazione ad oggetti
 
