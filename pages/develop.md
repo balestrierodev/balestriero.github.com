@@ -1,3 +1,5 @@
+# Come è stata sviluppata questa pagina?
+
 Questa pagina è una single page application sviluppata puramente in Angular che elabora in maniera dinamica i titoli, i paragrafi, le formattazioni e li renderizza mostrandoti il testo così come lo vedi.
             
 Sfrutta il provider HttpClient tramite il metodo this.httpClient.get() per effettuare una richiesta GET al <a rel="nofollow" target="_blank" href="[jsonDataUrl]">seguente indirizzo</a> ed ottenere quindi in formato RAW, il JSON contenente un oggetto che contiene a sua volta delle chiavi che contengono a loro volta le stringhe dei paragrafi così come li leggi.
