@@ -1,6 +1,6 @@
 # Un po' di storia
 
-Developer per passione, comincio la mia avventura nel mondo della programmazione all'età di 15 anni.
+**Developer per passione**, comincio la mia avventura nel mondo della programmazione all'età di 15 anni.
 
 Da subito la programmazione ad oggetti cattura la mia attenzione, scoprendone le potenzialità e sfruttandole implementadole in soluzioni custom anche adattabili ai CMS di quegli anni quali PhpNuke, CodeIgniter, CakePhp ecc...
 
