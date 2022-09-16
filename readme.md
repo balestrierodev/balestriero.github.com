@@ -26,7 +26,7 @@ Prosegue così la scalata della mia carriera lavorando per diverse aziende come 
 
 ### EnterinJS - Il mio primo framework.
 
-Nel **2014**, mi cimento nello sviluppo di un **Plugin** complesso per **jQuery**, "**Enterin**, divenuto poi un framework, che riscuote un **successo inaspettato** per un semplice plugin, tanto che il blog ufficiale della community **jQuery Italia** pubblica un'articolo su di una nostra intervista <a target="_blank" rel="nofollow" href="https://www.jqueryitalia.org/enterin-effetti-inception-sulla-tua-pagina-web/">disponibile qui</a>.
+Nel **2014**, mi cimento nello sviluppo di un **Plugin** complesso per **jQuery**, "**Enterin**", divenuto poi un framework, che riscuote un **successo inaspettato** per un semplice plugin, tanto che il blog ufficiale della community **jQuery Italia** pubblica un'articolo su di una nostra intervista <a target="_blank" rel="nofollow" href="https://www.jqueryitalia.org/enterin-effetti-inception-sulla-tua-pagina-web/">disponibile qui</a>.
 
 **EnterinJS** rendeva la navigazione delle pagine web un'esperienza **completamente nuova**, immergendo l'utente in una navigazione pieno stile "**Inception**"
 
