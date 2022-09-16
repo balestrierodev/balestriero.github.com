@@ -70,9 +70,9 @@ Ho lavorato in team in cui ognuno di noi si occupava di noi si occupava di una p
 
 ---
 
-### Sistemi operativi conosciuti?
+### Quali sistemi operativi ad oggi conosci?
 
-Oltre al popolarissimo **Windows 10** ho una buona esperienza di **Linux**, **Debian**, **Arch** e **CentOS**, maturata nel corso della mia carriera come **Full Stack Web Developer** con conseguente manutenzione e configurazione di **VPS**.
+Oltre al popolarissimo **Windows (7/8/8.1/10/11)** ho una buona esperienza di **Linux**, **Debian**, **Arch** e **CentOS**, maturata nel corso della mia carriera come **Full Stack Web Developer** con conseguente manutenzione e configurazione di **VPS**.
 
 ---
 
