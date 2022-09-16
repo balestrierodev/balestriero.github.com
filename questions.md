@@ -34,7 +34,7 @@ Ho sviluppato diverse applicazioni mobile per uso puramente personale o aziendal
 
 Tutte le mie applicazioni vengono sviluppate in **React** (non React Native) o **Angular** tramite l'ausilio di **Codova**.
 
-Nel caso in cui il progetto lo necessita posso scegliere anche scegliere una soluzioni più avanzate come **Ionic**.
+Nel caso in cui il progetto lo necessita posso anche scegliere una soluziona più avanzate come **Ionic**.
 
 ---
 
