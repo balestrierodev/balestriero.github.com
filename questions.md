@@ -52,7 +52,7 @@ Ovviamente, ogni piattaforma ha le sue personali chiamate **API** che vanno stud
 
 Durante lo sviluppo dei miei progetti, ho implementato da sempre una massiccia dose di **CSS** o **SCSS**, quest'ultima preferibile.
 
-In ogni progetto curo in maniera maniacale la **UX** ed **UI**, in quanto ci tengo che il progetto oltre ad essere funzionale in tutte le sue parti, sia anche una gioia da vedere.
+In ogni progetto **curo in maniera accurata**  la **UX** ed **UI**, in quanto ci tengo che il progetto **oltre ad essere funzionale** in tutte le sue parti, sia anche una **gioia da vedere**.
 
 Questo è un aspetto che **non trascuro mai** nello sviluppo.
 
