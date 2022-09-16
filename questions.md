@@ -64,7 +64,7 @@ Quando si lavora a progetti complessi, che necessitano di implementazioni contin
 
 Personalmente utilizzo **GIT** in locale, **Github**, **Bitbucket**, anche in piccoli progetti personali, in modo da **avere sotto controllo** **l'andamento del progetto** ed in caso di problemi o porzioni di codice sovrascritte e da recuperare, posso farlo in totale sicurezza senza dover riscrivere nuovamente una logica già esistente.
 
-Ho lavorato in team in cui ognuno di noi si occupava di noi si occupava di una parte dello stesso progetto, il quale ci portava a modificare inevitabilmente ad esempio lo stesso file di un servizio in Angular. Grazie a **GIT**, abbiamo potuto farlo sempre in completa serenità, rilasciando sempre un merge di un file pulito senza conflitti o cancellazioni accidentali di codice.
+Ho lavorato in team in cui ognuno di noi si occupava di una parte dello stesso progetto, il quale ci portava inevitabilmente a modificare ad esempio lo stesso file di un servizio in Angular. Grazie a **GIT**, abbiamo potuto farlo sempre in completa serenità, rilasciando sempre un merge di un file pulito senza conflitti o cancellazioni accidentali di codice.
 
 ***( Grazie **Git** ❤ )***
 
