@@ -76,7 +76,7 @@ Oltre al popolarissimo **Windows (7/8/8.1/10/11)** ho una buona esperienza di **
 
 ---
 
-### Ti interesserebbe un ruolo da sistemista?
+### Ti interesserebbe il ruolo di sistemista?
 
 Anche avendo un'esperienza personale avanzata di **Linux**, **Debian**, **Arch** e **CentOS**, credo che ad ognuno spetti il proprio ruolo.
 
