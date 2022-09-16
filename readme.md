@@ -22,11 +22,11 @@ Inizia così a **18 anni** la mia carriera lavorativa come **Web Developer**, in
 
 ### Full stack Web Developer
 
-Prosegue così così la scalata della mia carriera lavorando per diverse aziende come **Full Stack Web Developer**, prevalentemente in **HTML5**, **CSS3**, **SCSS**, **Javascript**, **jQuery**, **PHP** e **MySQL** tramite l'ausilio del **CMS** **Wordpress**, sviluppando e mantenedo dal "**semplice sito vetrina**" ai più complessi **E-Commerce** o piattaforme web.
+Prosegue così la scalata della mia carriera lavorando per diverse aziende come **Full Stack Web Developer**, prevalentemente in **HTML5**, **CSS3**, **SCSS**, **Javascript**, **jQuery**, **PHP** e **MySQL** tramite l'ausilio del **CMS** **Wordpress**, sviluppando e mantenedo dal "**semplice sito vetrina**" ai più complessi **E-Commerce** o piattaforme web.
 
 ### EnterinJS - Il mio primo framework.
 
-Nel **2014**, mi cimento nello sviluppo di un **Plugin** complesso per **jQuery**, "**Enterin**, divenuto poi un framework, che riscuote un **successo inaspettato** per un semplice plugin, tanto che il blog ufficiale della community **jQuery Italia** pubblica un'articolo su di una nostra intervista <a rel="nofollow" href="https://www.jqueryitalia.org/enterin-effetti-inception-sulla-tua-pagina-web/">disponibile qui</a>.
+Nel **2014**, mi cimento nello sviluppo di un **Plugin** complesso per **jQuery**, "**Enterin**, divenuto poi un framework, che riscuote un **successo inaspettato** per un semplice plugin, tanto che il blog ufficiale della community **jQuery Italia** pubblica un'articolo su di una nostra intervista <a target="_blank" rel="nofollow" href="https://www.jqueryitalia.org/enterin-effetti-inception-sulla-tua-pagina-web/">disponibile qui</a>.
 
 **EnterinJS** rendeva la navigazione delle pagine web un'esperienza **completamente nuova**, immergendo l'utente in una navigazione pieno stile "**Inception**"
 
