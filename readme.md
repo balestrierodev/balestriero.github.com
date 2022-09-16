@@ -1,6 +1,6 @@
 ### Mi presento
 
-sono **Gianfilippo Balestriero**, ho **#age#** anni e sono di **Napoli**.
+Il mio nome è **Gianfilippo Balestriero**, ho **#age#** anni e sono di **Napoli**.
 
 **Developer per passione**, inizio la mia avventura nel mondo della programmazione nel **2004**, **all'età di 15 anni**, da qui poi la mia carriera come sviluppatore è stata tutta in ascesa...
 
@@ -16,7 +16,7 @@ Date le conoscenze, percorro una brevissima strada come **White Hat**, scoprendo
 
 Da subito la **programmazione ad oggetti** cattura la mia attenzione, scoprendone le potenzialità e sfruttandola in soluzioni custom anche adattabili ai **CMS** di quegli anni quali **PhpNuke**, **CodeIgniter**, **CakePhp** ecc...
 
-### 18 Anni - La mia prima esperienza lavorativa
+### La mia prima esperienza lavorativa
 
 Inizia così a **18 anni** la mia carriera lavorativa come **Web Developer**, in concomitanza con l'avvento di tecnologie quali **Ajax** e **manipolazione del DOM** in **Javascript**, l'uscita di **Zend Framework** per **PHP**, ed a passo con l'esponezionale crescita di **Facebook** in **Italia**.
 
@@ -24,7 +24,7 @@ Inizia così a **18 anni** la mia carriera lavorativa come **Web Developer**, in
 
 Prosegue così così la scalata della mia carriera lavorando per diverse aziende come **Full Stack Web Developer**, prevalentemente in **HTML5**, **CSS3**, **SCSS**, **Javascript**, **jQuery**, **PHP** e **MySQL** tramite l'ausilio del **CMS** **Wordpress**, sviluppando e mantenedo dal "**semplice sito vetrina**" ai più complessi **E-Commerce** o piattaforme web.
 
-### EnterinJS - Il mio primo framework (non più mantenuto).
+### EnterinJS - Il mio primo framework.
 
 Nel **2014**, mi cimento nello sviluppo di un **Plugin** complesso per **jQuery**, "**Enterin**, divenuto poi un framework, che riscuote un **successo inaspettato** per un semplice plugin, tanto che il blog ufficiale della community **jQuery Italia** pubblica un'articolo su di una nostra intervista <a rel="nofollow" href="https://www.jqueryitalia.org/enterin-effetti-inception-sulla-tua-pagina-web/">disponibile qui</a>.
 
