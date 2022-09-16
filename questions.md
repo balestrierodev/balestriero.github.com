@@ -24,7 +24,7 @@ Per quest ultimo vi è anche la scelta del se implementare o meno uno state mana
 
 Ho sviluppato diverse applicazioni Desktop **multi-piattaforma** in **Angular** o **React**, tramite l'ausilio di **Electron**.
 
-Mi è capitato anche di sviluppare applicazioni **Destkop** che richiedevano una comunicazione **IPC** complessa, per leggere grandi quantità di file, cartelle ed elaborazioni complesse come generazione finale di fogli di calcolo, che necessitavano di operazioni asincrone e di attenzione per il **Memory Leak**.
+Mi è capitato anche di sviluppare applicazioni **Destkop** che richiedevano una comunicazione **IPC** complessa per leggere grandi quantità di file, cartelle ed elaborazioni complesse come generazione finale di fogli di calcolo, che necessitavano di operazioni asincrone e di attenzione per il **Memory Leak**.
 
 ---
 
