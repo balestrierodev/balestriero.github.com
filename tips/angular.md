@@ -1,1 +1,1 @@
-### In Angular l'operatore switchMap interrompe la chiamata Ajax di HttpClient in Angular?
+# L'operatore switchMap di RxJS, combinato ad HttpClient di Angular, si occupa di cancellare la richiesta http precente
