@@ -8,7 +8,7 @@ Mi è capitato di lavorare a progetti che richiedevano un particolare sviluppo d
 
 ---
 
-### Se tu dovessi partecipare ad un progetto Frontend cosa sceglieresti tra Angular o React?
+### Per un progetto Frontend cosa sceglieresti tra Angular o React?
 
 A seconda della complessità del progetto, scelgo sempre in primis la strada migliore da seguire.
 
@@ -55,6 +55,18 @@ Durante lo sviluppo dei miei progetti, ho implementato da sempre una massiccia d
 In ogni progetto **curo in maniera accurata**  la **UX** ed **UI**, in quanto ci tengo che il progetto **oltre ad essere funzionale** in tutte le sue parti, sia anche una **gioia da vedere**.
 
 Questo è un aspetto che **non trascuro mai** nello sviluppo.
+
+---
+
+### Hai sperienza di versioning, commit, merge, push, pull e GIT?
+
+Quando si lavora a progetti complessi, che necessitano di implementazioni continue e diverse strade da seguire, ma soprautto quando si lavora in team **GIT** è **fondamentale**, infatti preferisco che le aziende adottino soluzioni di versioning interne come **GitLab**.
+
+Personalmente utilizzo **GIT** in locale, **Github**, **Bitbucket**, anche in piccoli progetti personali, in modo da **avere sotto controllo** **l'andamento del progetto** e in caso di problemi, porzioni di codice sovrascritte o da recuperare, e quant altro, poterlo fare in totale sicurezza, senza dover riscrivere nuovamente una logica già esistente.
+
+Ho lavorato in team in cui ognuno di noi si occupava di noi si occupava di una parte dello stesso progetto, il quale ci portava a modificare inevitabilmente ad esempio lo stesso file di un servizio in Angular. Grazie a **GIT**, abbiamo potuto farlo sempre in completa serenità, rilasciando sempre un merge di un file pulito senza conflitti o cancellazioni accidentali di codice.
+
+***( Grazie **Git** ❤ )***
 
 ---
 
