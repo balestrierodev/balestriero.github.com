@@ -30,11 +30,7 @@ Nel **2014**, mi cimento nello sviluppo di un **Plugin** complesso per **jQuery*
 
 **EnterinJS** rendeva la navigazione delle pagine web un'esperienza **completamente nuova**, immergendo l'utente in una navigazione pieno stile "**Inception**"
 
-Il video di presentazione e una demo sul suo utilizzo sono ancora disponibile su youtube.
-
-<a target="_blank" rel="nofollow" href="https://www.youtube.com/watch?v=t8BnXaBLWf4">
-  <img src="https://img.youtube.com/vi/t8BnXaBLWf4/0.jpg">
-</a>
+Il video di presentazione e una demo sul suo utilizzo sono ancora <a target="_blank" rel="nofollow" href="https://www.youtube.com/watch?v=t8BnXaBLWf4">disponibile su youtube.</a>
 
 ### NodeJS - Così cambia la mia vita
 
