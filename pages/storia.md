@@ -1,8 +1,10 @@
-# Un po' di storia
+### Mi presento
 
-### Passione... non un lavoro!
+sono **Gianfilippo Balestriero**, ho **#age#** anni e sono di **Napoli**.
 
-**Developer per passione**, inizio la mia avventura nel mondo della programmazione nel **2004**, **all'età di 15 anni**.
+**Developer per passione**, inizio la mia avventura nel mondo della programmazione nel **2004**, **all'età di 15 anni**, da qui poi la mia carriera come sviluppatore è stata tutta in ascesa...
+
+### Programmazione ad oggetti
 
 Muovo i miei primi passi in **Visual Studio**, dilettandomi nello sviluppo di applicazioni desktop che erano per la maggior parte **Client TCP** ed i protocolli di connessione dei vari servizi a cui si allacciavano, come **DC++**, **IRC**, **BOT** ecc...
 
