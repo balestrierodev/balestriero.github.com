@@ -1,0 +1,10 @@
+{
+  "name": "balestrierodev.github.io",
+  "version": "1.0.0",
+  "repository": "https://github.com/balestrierodev/balestrierodev.github.io",
+  "author": "Gianfilippo Balestriero <balestrierodev@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dist": "git pull origin main && git add . && git commit -m \"site updated\" && git push"
+  }
+}
