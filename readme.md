@@ -39,3 +39,8 @@ Con l'avvento di **NodeJS**, la mia vita da sviluppatore cambia radicalmente, ed
 Comincio a scroprire tutte le potenzialità di questo runtime in **Javascript** e le sue potenziali librerie quali **Gulp**, **Grunt**, **Babel**, **Webpack**, **Parcel**, **React**, **Angular**, **Vue**, **Express**, **Electron**, **Cordova** e tantissime altre adatte per ogni scopo.
 
 Capisco subito quale sarebbe stata da quel momento la strada da seguire e mi concentro solo ed unicamente su **NodeJS** e tutto ciò che ne concerne, specializzandomi nelle piattafome **Angular** e **React**, per la parte **frontend**, mentre per la parte **backend**, le più svariate soluzioni, dai **Database Custom ctritografati** in **AES**, alle **implementazioni Cloud** come **Firebase** o quelle più semplici come la connessione ad un **Database** **SQL**.
+
+### VII EDIZIONE OPENART AWARD - Il mio primo premio!
+
+Nel **2018** insieme al mio ex collega **Guido Di Pace**, fondatore della **Lionsvenge**, vinciamo il primo premio della **VII EDIZIONE OPENART AWARD** per la categoria **WEB & MULTIMEDIA**, grazie allo sviluppo del sito <a href="https://heir.live">Heir</a> per la nota cantante **Patricia Manfield** in arte **HEIR**, ritagliandoci anche uno spazio per la testata giornalistica **Il Mattino**.
+
