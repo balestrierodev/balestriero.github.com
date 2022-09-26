@@ -45,3 +45,5 @@ Capisco subito quale sarebbe stata da quel momento la strada da seguire e mi con
 Nel **2018** insieme al mio ex collega **Guido Di Pace**, fondatore della **Lionsvenge**, vinciamo il primo premio della **VII EDIZIONE OPENART AWARD** per la categoria **WEB & MULTIMEDIA**, grazie allo sviluppo del sito <a href="https://heir.live">Heir</a> per la nota cantante **Patricia Manfield** in arte **HEIR**, ritagliandoci anche uno spazio per la testata giornalistica **Il Mattino**.
 
 ![Premio Heir](https://user-images.githubusercontent.com/16978824/192358072-1bf63424-e6ac-4dee-b59a-abf96abe9ea1.jpg)
+
+![Articollo Il Mattino](https://user-images.githubusercontent.com/16978824/192359391-0dffcdc6-50a6-491e-9b67-fdd365483836.png)
