@@ -32,7 +32,7 @@ Mi è capitato anche di sviluppare applicazioni **Destkop** che richiedevano una
 
 Ho sviluppato diverse applicazioni mobile per uso puramente personale o aziendale senza necessità di essere pubblicate su **Google Play**.
 
-Tutte le mie applicazioni vengono sviluppate in **React** (non React Native) o **Angular** tramite l'ausilio di **Codova**.
+Tutte le mie applicazioni vengono sviluppate in **React** (non React Native) o **Angular** tramite l'ausilio di **Cordova**.
 
 Nel caso in cui il progetto lo necessita posso anche scegliere una soluzione più avanzata come **Ionic**.
 
