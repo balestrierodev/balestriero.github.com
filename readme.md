@@ -47,5 +47,3 @@ Nel **2018** insieme al mio ex collega **Guido Di Pace**, fondatore della **Lion
 Il sito aveva come ruolo principale quello di **promuovere i singoli di Patricia Manfield**** in arte **HEIR**, così nacque l'idea di un sito interattivo, ossia lo sviluppo di un **gioco in stile 8bit**, che ad ogni livello superato permetteva di ascoltare il brano successivo tramite un **Custom Player** per **YouTube**, con una slide progressiva in pieno stile **Pacman** e la **possibilità di ascoltare i brani sulle principali piattaforme di pubblicazione** e **condividere il brano sui principali social network**.
 
 ![Premio Heir](https://user-images.githubusercontent.com/16978824/192358072-1bf63424-e6ac-4dee-b59a-abf96abe9ea1.jpg)
-
-![Articollo Il Mattino](https://user-images.githubusercontent.com/16978824/192359391-0dffcdc6-50a6-491e-9b67-fdd365483836.png)
